@@ -6,8 +6,8 @@ if mafia == 'y' or 'yes':
 print("""\n\nWelcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
-API_KEY = input("API_ID:  ")
-API_HASH = input("API_HASH:  ")
+API_KEY = input("5634298:  ")
+API_HASH = input("6a9ef826aec055a2768e4f9f39f84950:  ")
 
 while True:
     try:
